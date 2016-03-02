@@ -1,2 +1,5 @@
-flask
+*.pyc
+*.pyo
 .idea
+flask
+
